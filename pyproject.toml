@@ -4,13 +4,13 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "optimized-gauss-hermite"
-version = "0.1.0"
-description = "Optimized Gauss-Hermite quadrature for high-dimensional Gaussian expectations"
+version = "0.1.1"
+description = "Optimized Gauss-Hermite quadrature"
 readme = "README.md"
 license = "MIT"
 requires-python = ">=3.9"
 authors = [
-    {name = "Your Name", email = "you@example.com"},
+    {name = "Haozhan Meng", email = "hzhmeng@gmail.com"},
 ]
 keywords = ["gauss-hermite", "quadrature", "numerical-integration", "gaussian", "expectation"]
 classifiers = [

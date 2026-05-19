@@ -57,6 +57,19 @@ ogh_integrate(
 - numpy ≥ 1.20
 - scipy ≥ 1.7
 
+## Citation
+
+```bibtex
+@inproceedings{ogh2024,
+  title     = {Optimized Gauss-Hermite Quadrature for High-Dimensional Gaussian Expectations},
+  booktitle = {2024 IEEE Conference on Decision and Control (CDC)},
+  author    = {Meng, Haozhan},
+  year      = {2024},
+  publisher = {IEEE},
+  url       = {https://ieeexplore.ieee.org/abstract/document/10590620}
+}
+```
+
 ## License
 
 MIT
