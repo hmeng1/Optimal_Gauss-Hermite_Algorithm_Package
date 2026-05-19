@@ -61,7 +61,7 @@ ogh_integrate(
 
 ```bibtex
 @inproceedings{ogh2024,
-  title     = {Optimized Gauss-Hermite Quadrature for High-Dimensional Gaussian Expectations},
+  title     = {Optimized Gauss-Hermite Quadrature: A Refined Approach},
   booktitle = {2024 IEEE Conference on Decision and Control (CDC)},
   author    = {Meng, Haozhan},
   year      = {2024},
